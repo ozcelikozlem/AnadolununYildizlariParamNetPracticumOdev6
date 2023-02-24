@@ -72,7 +72,7 @@ namespace WebApi.DbOperations
                         //Id=1,
                         Title="Lean Startup",
                         GenreId=1,//Personal Growth
-                        AuthorId=2,
+                        AuthorId=1,
                         PageCount=200,
                         PublishDate=new DateTime(2001,06,12),
                         
